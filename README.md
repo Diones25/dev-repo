@@ -63,7 +63,6 @@ No corpo da requisição do body deve conter esse seguinte objeto JSON:
 #### Retorna um JSON
 
 ```
-```
   Deve retornar um JSON com os dados dos repositório do usuário
 [
   {
